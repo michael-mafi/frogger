@@ -6,4 +6,6 @@ Or simply git clone and run index.html in your browser.
 
 Frogger Game in JavaScript
 
+Use the arrow keys on your keyboard to play now!
+
 Udacity Rubric https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
