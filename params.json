@@ -1,6 +1,6 @@
 {
   "name": "Frogger",
   "tagline": ":frog: Frogger in JavaScript",
-  "body": "### alt tag\r\nWorking Online Version Here: http://javascriptfrogger.bitballoon.com/\r\n\r\nOr simply git clone and run index.html in your browser.\r\n\r\nFrogger Game in JavaScript\r\n\r\nUse the arrow keys on your keyboard to play now!\r\n\r\nUdacity Rubric https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797\r\nContact GitHub API Training Shop Blog About\r\n\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
+  "body": "\r\nWorking Online Version Here: http://javascriptfrogger.bitballoon.com/\r\nOr simply git clone and run index.html in your browser.\r\n\r\nFrogger Game in JavaScript\r\nUse the arrow keys on your keyboard to play now!\r\nUdacity Rubric https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797\r\nContact GitHub API Training Shop Blog About\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
